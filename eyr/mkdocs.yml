@@ -1,0 +1,12 @@
+site_name: Emuladores y roms
+nav:
+  - Inicio: index.md
+  - Nintendo: nintendo.md
+  - Sega: sega.md
+  - Play Station: playstation.md
+  - Xbox: xbox.md
+  - SNK: snk.md
+  - Arcade: arcade.md
+  - PC (<2000): pc_antiguo.md
+  - Sitios confiables: sitios_confiables.md
+theme: material

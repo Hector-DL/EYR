@@ -1,0 +1,11 @@
+## Sitios confiables para descargar juegos
+- [r/Roms Megathread - Index para descargar juegos](https://r-roms.github.io/)
+- [Minerva - Torrents](https://minerva-archive.org/)
+- [ChadMaster (Archive.org) - Descarga directa](https://archive.org/details/@chadmaster)
+- [Vimm's Lair - Descarga directa y lenta](https://vimm.net/)
+- [Blueroms - Torrents (Recomendada para switch)](https://www.blueroms.ws/)
+- [hShop - El mejor sitio para descargar juegos en tu 3DS](https://hshop.erista.me/)
+- [UNIVERSE BIOS - Bios universales para NEO-GEO MVS/AES y CD](http://unibios.free.fr/download.html)
+- [Retroarch System Files (BIOS\Firmwares\OSs)](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/)
+- [Retrobios (Descarga individual)](https://github.com/Abdess/retrobios/tree/main/bios)
+- [Retrobios (Descarga del pack)](https://github.com/Abdess/retrobios/releases)
