@@ -15,7 +15,3 @@
 - [PC (<2000)](pc_antiguo.md)
 - [Sitios confiables](sitios_confiables.md)
 - Futuras actualizaciones...
-
-
-
-
