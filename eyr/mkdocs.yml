@@ -11,5 +11,5 @@ nav:
   - Sitios confiables: sitios_confiables.md
 theme: 
   name: material
-  logo: assets/logo.png
-  favicon: assets/favicon.png
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
