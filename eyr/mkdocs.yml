@@ -9,4 +9,7 @@ nav:
   - Arcade: arcade.md
   - PC (<2000): pc_antiguo.md
   - Sitios confiables: sitios_confiables.md
-theme: material
+theme: 
+  name: material
+  logo: assests/favicon.png
+  favicon: assests/favicon.png
