@@ -20,6 +20,7 @@
 ## Sega Master System / Sega Mark III
 ### Emuladores
 - [Kega Fusion](https://segaretro.org/Kega_Fusion)
+- [Mesen](https://www.mesen.ca)
 - [Retroarch](https://www.retroarch.com)
     - Núcleo/s recomendado/s: 
         - Genesis Plus GX
@@ -155,6 +156,7 @@ Nota: Para jugar los Hacks MSU-MD, es obligatorio, jugar en Genesis Plus GX. Otr
 ## Sega Game Gear
 ### Emuladores
 - [Kega Fusion](https://segaretro.org/Kega_Fusion)
+- [Mesen](https://www.mesen.ca)
 - [Retroarch](https://www.retroarch.com)
     - Núcleo/s recomendado/s: 
         - Genesis Plus GX

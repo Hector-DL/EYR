@@ -9,9 +9,10 @@
 - [Sega](sega.md)
 - [Play Station](playstation.md)
 - [Xbox](xbox.md)
-- [PC Engine / TurboGrafx 16 y deribados](pcengine.md)
+- [PC Engine / TurboGrafx 16 y derivados](pcengine.md)
 - [SNK](snk.md)
 - [Arcade](arcade.md)
 - [PC (<2000)](pc_antiguo.md)
+- [Ports de PC](pcports.md)
 - [Sitios confiables](sitios_confiables.md)
 - Futuras actualizaciones...

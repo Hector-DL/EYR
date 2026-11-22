@@ -1,7 +1,8 @@
-# PC ENGINE / TurboGrafx 16 y deribados
+# PC ENGINE / TurboGrafx 16 y derivados
 ## PC Engine / TurboGrafx 16 - PC Engine CD / TurboGrafx CD - PC Engine SuperGrafx
 ### Emuladores
 - [Mednafen](https://mednafen.github.io/)
+- [Mesen](https://www.mesen.ca)
 - [Retroarch](https://www.retroarch.com)
     - Núcleo/s recomendado/s: 
         - Bettle PCE
